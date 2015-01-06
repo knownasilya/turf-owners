@@ -1,15 +1,15 @@
 {
-  "name": "ownership",
+  "name": "turf-owners",
   "version": "1.0.0",
   "description": "manage npm owner status in bulk",
   "main": "index.js",
   "bin": {
-    "ownership": "ownership",
-    "ownership-all": "ownership-all"
+    "turf-owners": "ownership",
+    "turf-owners-all": "ownership-all"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:tmcw/ownership.git"
+    "url": "git@github.com:Turfjs/turf-owners.git"
   },
   "keywords": [
     "owner",
