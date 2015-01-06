@@ -1,6 +1,6 @@
 {
   "name": "turf-owners",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "manage npm owner status in bulk",
   "main": "index.js",
   "bin": {
